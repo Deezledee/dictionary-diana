@@ -9,7 +9,7 @@
 .Dictionary input {
   width: 100%;
   padding: 6px 8px;
-  border: 1px solid #ddd;
+  border: 1px solid black;
   border-radius: 6px;
   color: black;
 }
