@@ -52,7 +52,7 @@ export default function Dictionary(props) {
       </div>
     );
   } else {
-    loaded();
+    load();
     return "Loading";
   }
 }
